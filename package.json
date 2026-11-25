@@ -1,0 +1,9 @@
+{
+  "name": "vintage-press-cafe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vintage Press Café (256 Salmon Brook Street, Granby, CT 06035) — new specialty café site (websites lane)",
+  "main": "server.js",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node server.js" }
+}
