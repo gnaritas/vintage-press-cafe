@@ -1,0 +1,122 @@
+[
+ {
+  "shot": "00-index-d1280.jpg",
+  "vp": "d1280",
+  "verdict": "DEFECTS",
+  "notes": "- \"Granby's new caf\u00e9\" paragraph has an awkward line break, splitting \"a print shop\" onto its own line.\n- \"Named for women who made history\" section has text cut off on the right side.\n- \"The wait is over, we are open!!\" quote has \"FACEBOOK\" link partially cut off on the right.\n- \"A print shop, reborn.\" section has \"READ OUR STORY\" link partially cut off on the right.\n- \"VISIT\" box in the \"A print shop, reborn.\" section has \"DIRECTIONS & MAP\" link partially cut off on the right.\n- Footer text \"Vintage Press Caf\u00e9 - 256 Salmon Brook Street, Granby, CT 06035\" is cut off on the right.\n\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "01-menu-d1280.jpg",
+  "vp": "d1280",
+  "verdict": "DEFECTS",
+  "notes": "- The top-right header text \"HELLO@VINTAGEPRESSCAFE.COM\" is slightly cut off on the right side.\n- The \"Lunch\" box has \"weekends too.\" on a new line, creating an awkward break.\n- The footer text \"Vintage Press Caf\u00e9 - 256 Salmon Brook Street, Granby, CT 06035\" is cut off on the right side.\n\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "02-coffee-and-tea-d1280.jpg",
+  "vp": "d1280",
+  "verdict": "DEFECTS",
+  "notes": "- Top header text \"OPEN EVERY DAY\" is too close to the left edge.\n- Main heading \"Specialty coffee & loose-leaf tea\" is cut off on the right side.\n- The paragraph below the main heading is cut off on the right side.\n- The paragraph under \"The coffee\" is cut off on the right side.\n- The paragraph under \"The tea\" is cut off on the right side.\n- The paragraph under \"Named for history-makers\" is cut off on the right side.\n- Footer text \"Vintage Press Caf\u00e9\" is too close to the left edge.\n- Footer text \"Vintage Press Caf\u00e9 - 256 Salmon Brook Street, Granby, CT 06035\" is cut off on the right side.\n\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "03-breakfast-and-lunch-d1280.jpg",
+  "vp": "d1280",
+  "verdict": "DEFECTS",
+  "notes": "- Top header text \"256 SALMON BROOK STREET, GRANBY, CT\" is slightly cut off on the right side.\n- The word \"every\" in the main heading \"Breakfast to lunch, every day\" is slightly cut off on the right.\n- The paragraph text under \"Any day will do\" is cut off on the right side.\n- The \"COFFEE & TEA\" button is slightly cut off on the right side.\n- The footer text \"Vintage Press Caf\u00e9 \u00b7 256 Salmon Brook Street, Granby, CT 06035\" is cut off on the right side.\n\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "04-our-story-d1280.jpg",
+  "vp": "d1280",
+  "verdict": "DEFECTS",
+  "notes": "- The top navigation links (HOME, MENU, OUR STORY, VISIT, CONTACT) are slightly misaligned vertically with the \"Vintage Press Caf\u00e9\" logo text.\n- The \"OUR STORY\" breadcrumb text is very close to the bottom rule, almost touching.\n- The \"Vintage Press Caf\u00e9 opened in November 2026 at 256 Salmon Brook Street \u2014 a historic Granby building that spent its first life as a working print shop.\" paragraph has a slightly squished line-height, making it feel dense.\n- The \"Why \u201cVintage Press\u201d\" heading is very close to the paragraph above it, reducing visual separation.\n- The \"Fresh out of the gate\" heading is very close to the paragraph above it, reducing visual separation.\n- The \"SEE THE MENU \u2192\" button has the arrow character slightly cut off on the right side.\n- The footer text \"Vintage Press Caf\u00e9 \u00b7 256 Salmon Brook Street, Granby, CT 06035\" is very close to the bottom edge of the viewport, with minimal padding.\n\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "05-visit-d1280.jpg",
+  "vp": "d1280",
+  "verdict": "DEFECTS",
+  "notes": "- Top header text \"256 SALMON BROOK STREET, GRANBY, CT\" is cut off on the right.\n- The map image is slightly misaligned, with a thin white line visible on its left edge.\n- The \"Open in Maps\" link text in the map is partially obscured by the map's frame.\n- The map's \"Map Data\" and \"Terms\" links are partially obscured by the map's frame.\n- The footer text \"Vintage Press Caf\u00e9 \u00b7 256 Salmon Brook Street, Granby, CT 06035\" is cut off on the right.\n\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "06-contact-d1280.jpg",
+  "vp": "d1280",
+  "verdict": "DEFECTS",
+  "notes": "- Top header text \"GRANBY \u00b7 CONNECTICUT\" is slightly cut off on the right side.\n- Footer text \"Vintage Press Caf\u00e9\" is slightly cut off on the right side.\n- Footer text \"256 Salmon Brook Street\" is slightly cut off on the right side.\n- Footer text \"Granby, CT 06035\" is slightly cut off on the right side.\n- Footer text \"Open daily 7 a.m.\u20132 p.m.\" is slightly cut off on the right side.\n- Bottom copyright text \"Vintage Press Caf\u00e9 \u00b7 256 Salmon Brook Street, Granby, CT 06035\" is cut off on the right side.\n\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "07-privacy-d1280.jpg",
+  "vp": "d1280",
+  "verdict": "DEFECTS",
+  "notes": "- Footer text \"Vintage Press Caf\u00e9\" is cut off on the left side.\n- Footer text \"VINTAGE VIBES. MODERN BREWS.\" is cut off on the left side.\n- Footer text \"Open daily 7 a.m.\u20132 p.m.\" is cut off on the left side.\n- Footer text \"hello@vintagepresscafe.com\" is cut off on the left side.\n- Footer text \"Facebook\" is cut off on the left side.\n- Bottom-most footer line \"Vintage Press Caf\u00e9 \u00b7 256 Salmon Brook Street, Granby, CT 06035\" is cut off on the left side.\n\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "08-404-d1280.jpg",
+  "vp": "d1280",
+  "verdict": "DEFECTS",
+  "notes": "- Top navigation links (HOME, MENU, OUR STORY, VISIT, CONTACT) are misaligned, with 'HOME' and 'MENU' slightly lower than the others.\n- The footer text \"Vintage Press Caf\u00e9\" is slightly cut off at the bottom.\n- The footer copyright line \"Vintage Press Caf\u00e9 \u2022 256 Salmon Street, Granby, CT 06035\" is cut off on the right side.\n\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "09-thanks-d1280.jpg",
+  "vp": "d1280",
+  "verdict": "DEFECTS",
+  "notes": "- Top-right navigation links (HOME, MENU, OUR STORY, VISIT, CONTACT) are too close to the right edge of the viewport.\n- The \"SEE THE MENU\" button has a slight misalignment with the \"BACK TO THE CAF\u00c9\" button, appearing a pixel or two higher.\n- In the footer, the \"Open daily 7 a.m.\u20132 p.m.\" text is slightly misaligned to the left compared to the address above it.\n- The footer's bottom line of text (\"Vintage Press Caf\u00e9 - 256 Salmon Brook Street, Granby, CT 06035\") is cut off at the bottom.\n\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "00-index-m390.jpg",
+  "vp": "m390",
+  "verdict": "DEFECTS",
+  "notes": "- Top header text \"256 SALMON BROOK STREET, GRANBY, CT\" is slightly cut off on the right side.\n- The \"SEE THE MENU\" button is slightly misaligned to the left compared to the \"VISIT & DIRECTIONS\" button below it.\n- The \"DETAILS \u2192\" link for \"Breakfast\" is too close to the bottom border of its box.\n- The \"DETAILS \u2192\" link for \"Lunch\" is too close to the bottom border of its box.\n- The footer text \"Open daily 7 a.m.\u20132 p.m.\" is cut off on the right side.\n- The very bottom footer line \"Vintage Press Caf\u00e9 \u00b7 256 Salmon Brook Street, Granby, CT 06035\" is cut off on the right side.\n\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "01-menu-m390.jpg",
+  "vp": "m390",
+  "verdict": "DEFECTS",
+  "notes": "- The top header text \"256 SALMON BROOK STREET, GRANBY, CT\" is broken awkwardly onto two lines.\n- The \"DETAILS \u2192\" links in the menu items are slightly misaligned to the left compared to the main text above them.\n- The footer text \"Vintage Press Caf\u00e9 \u00b7 256 Salmon Brook Street, Granby, CT 06035\" is broken awkwardly onto two lines.\n\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "02-coffee-and-tea-m390.jpg",
+  "vp": "m390",
+  "verdict": "DEFECTS",
+  "notes": "- Top header text \"256 SALMON BROOK STREET, GRANBY, CT\" is cut off on the right side.\n- Footer copyright text \"Vintage Press Caf\u00e9 \u00b7 256 Salmon Brook Street, Granby, CT 06035\" is cut off on the right side.\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "03-breakfast-and-lunch-m390.jpg",
+  "vp": "m390",
+  "verdict": "DEFECTS",
+  "notes": "- Top header text '256 SALMON BROOK STREET' is cut off on the right.\n- Main navigation link 'STORY' is cut off on the right.\n- Breadcrumb navigation 'BREAKFAST & LUNCH' is cut off on the right.\n- Footer text 'Open daily 7 a.m.\u20132 p.m.' is cut off on the right.\n- Footer copyright text '256 Salmon Brook Street,' is cut off on the right.\n- Footer copyright text 'Granby, CT 06035' is cut off on the right.\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "04-our-story-m390.jpg",
+  "vp": "m390",
+  "verdict": "DEFECTS",
+  "notes": "- The \"OUR STORY\" breadcrumb is misaligned with the \"HOME\" breadcrumb.\n- The \"Vintage Press Caf\u00e9\" title in the footer is slightly misaligned to the left compared to the \"FIND US\" and \"TALK TO US\" sections.\n- The copyright text in the footer is broken into two lines, with the second line indented, which looks awkward.\n\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "05-visit-m390.jpg",
+  "vp": "m390",
+  "verdict": "DEFECTS",
+  "notes": "- Top header text \"256 SALMON BROOK STREET, GRANBY, CT\" is slightly cut off on the right side.\n- The \"Visit\" navigation link's underline is slightly misaligned, extending too far to the right.\n- The map area is a blank block (map-artifact).\n- The footer text \"Vintage Press Caf\u00e9 \u00b7 256 Salmon Brook Street, Granby, CT 06035\" is cut off on the right side.\n\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "06-contact-m390.jpg",
+  "vp": "m390",
+  "verdict": "DEFECTS",
+  "notes": "- The \"CONTACT\" link in the main navigation has an underline that extends slightly beyond the text.\n- The \"MESSAGE\" textarea has a small, dark triangle in the bottom right corner, indicating a resize handle, which is a visual artifact.\n- The footer text \"Vintage Press Caf\u00e9 \u00b7 256 Salmon Brook Street, Granby, CT 06035\" is split onto two lines with an awkward break.\n\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "07-privacy-m390.jpg",
+  "vp": "m390",
+  "verdict": "DEFECTS",
+  "notes": "- Top header text \"256 SALMON BROOK STREET, GRANBY, CT\" is cut off on the right side.\n- Navigation link \"OUR STORY\" is slightly cut off on the right.\n- Footer text \"256 Salmon Brook Street, Granby, CT 06035\" is cut off on the right side.\n\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "08-404-m390.jpg",
+  "vp": "m390",
+  "verdict": "DEFECTS",
+  "notes": "- Top header text \"256 SALMON BROOK STREET, GRANBY, CT\" is cut off on the right side.\n- Footer text \"256 Salmon Brook Street, Granby, CT 06035\" is cut off on the right side.\n\nVERDICT: DEFECTS"
+ },
+ {
+  "shot": "09-thanks-m390.jpg",
+  "vp": "m390",
+  "verdict": "DEFECTS",
+  "notes": "- Top header text \"256 SALMON BROOK STREET, GRANBY, CT\" is cut off on the right side.\n- Footer text \"256 Salmon Brook Street\" is cut off on the right side.\n- Footer text \"Granby, CT 06035\" is cut off on the right side.\n\nVERDICT: DEFECTS"
+ }
+]

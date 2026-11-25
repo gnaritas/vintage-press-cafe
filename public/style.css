@@ -145,4 +145,7 @@ footer{background:var(--ink);color:var(--creamtxt);padding-top:clamp(2.4rem,5vw,
   .navrow{flex-direction:column;text-align:center}
   nav{justify-content:center}
   .twocol{grid-template-columns:1fr}
+  /* aspect-ratio + min-height couples height back into min-content WIDTH (512px
+     at 320px tall) and blows the mobile grid track — decouple: fixed height, no ratio */
+  .mapwrap{aspect-ratio:auto;height:320px;min-height:0}
 }
